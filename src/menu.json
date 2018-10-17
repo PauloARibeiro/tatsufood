@@ -1,0 +1,85 @@
+{
+  "breakfast": {
+    "cereal": {
+      "name": "Monday Brunch Cereal",
+      "price": 10,
+      "ingre": "milk, oats, banana, peanuts"
+    },
+    "coffee": {
+      "name": "House of Coffee",
+      "price": 5,
+      "ingre": "coffee"
+    },
+    "supereggs": { 
+      "name": "Super Eggs",
+      "price": 8,
+      "ingre": "eggs, bacon, bread"
+    },
+    "avacadotoast": {
+      "name": "Avacado Toast",
+      "price": 15,
+      "ingre": "avacado and toast"
+    }
+  },
+  "lunch": {
+    "simple": {
+      "name": "Simple Dish",
+      "price": 20,
+      "ingre": "Avocado, tomato, onion, cilantro, serrano chili"
+    },
+    "twotimer": {
+      "name": "Two Timer",
+      "price": 30,
+      "ingre": "Avocado, tomato, onion, cilantro, serrano chili"
+    },
+    "Kong": {
+      "name": "Kong",
+      "price": 20,
+      "ingre": "Corn"
+    },
+    "Date": {
+      "name": "Date",
+      "price": 12,
+      "ingre": "Avocado, tomato, onion, cilantro, serrano chili"
+    }
+  },
+  "dinner": {
+    "simple": {
+      "name": "Dinner Dish",
+      "price": 30,
+      "ingre": "Fish, rice, beans, corn"
+    },
+    "threetimer": {
+      "name": "Three Timer",
+      "price": 40,
+      "ingre": "Fish, rice, beans, corn"
+    },
+    "kingkong": {
+      "name": "King Kong Dong",
+      "price": 15.95,
+      "ingre": "Corn with mustard"
+    },
+    "Date": {
+      "name": "Date",
+      "price": 5,
+      "ingre": "Fish, rice, beans, corn"
+    }
+  },
+  "drinks": {
+    "water": {
+      "name": "Water",
+      "price": 2,
+      "ingre": "Good ol' Water"
+    },
+    "beer": {
+      "name": "Bear",
+      "price": 4,
+      "ingre": "Best beer in town"
+    },
+    "wine": {
+      "name": "Wine",
+      "price": 6,
+      "ingre": "Classy"
+    }
+  }
+}

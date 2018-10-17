@@ -1,0 +1,98 @@
+@mixin easeOut {
+  transition: all 0.3s ease-out;
+}
+
+@mixin easeIn {
+  transition: all 0.3s ease-in;
+}
+
+@mixin easeInFast {
+  transition: all 0.1s ease-in;
+}
+
+@mixin slideIn {
+  transition: all 0.4s cubic-bezier(0.62, -0.32, 0.74, 0.05);
+}
+
+
+.fadeIn {
+  animation-delay: .5s;
+  animation: fadeIn 1.5s forwards;
+}
+
+.fadeInSlow {
+  animation-delay: 2s;
+  animation: fadeIn 2.5s forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.orderNowSlide{
+  animation-delay: 1s;
+  animation: orderNow 1s forwards;
+}
+
+@keyframes orderNow{
+  0% {
+    left: -21%;
+  }
+  100% {
+    left: 35%;
+  }
+}
+
+.lineSlide{
+  animation-delay: 2s;
+  animation: lineSlide 1s forwards;
+}
+
+@keyframes lineSlide{
+  0%{
+    width: 0%;
+  }
+
+  100%{
+    width: 93.6%;
+  }
+}
+
+.priceSlideUp{
+  animation-delay: 2s;
+  animation: priceSlideUp 1s forwards;
+}
+
+@keyframes priceSlideUp{
+  0%{
+    top: 100%;
+  }
+
+  90%{
+    top: 45%;
+  }
+
+  100%{
+    top: 50%;
+  }
+}
+
+// .loaderAnimation{
+//   animation: loaderAnimation 1s forwards;
+// }
+
+@keyframes loaderAnimation{
+  0%{
+    height: 5px;
+    width: 5px;
+  }
+  100% {
+    width: 10px;
+    height: 10px;
+  }
+}

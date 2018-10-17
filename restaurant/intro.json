@@ -1,0 +1,17 @@
+{
+  "first": {
+    "name": "Delightful Food",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit vero aliquam blanditiis expedita praesentium ducimus adipisci, atque doloribus? Nihil, nisi dolor nesciunt in dolore rerum esse repellat cum reiciendis sunt?",
+    "img": "img/pizza.png"
+  },
+  "second": {
+    "name": "Best food...",
+    "description": "Cray air plant locavore 90's. Yuccie gluten-free fanny pack meggings scenester sartorial man bun twee selfies schlitz. Four dollar toast pabst scenester unicorn etsy listicle.",
+    "img": "img/hamburger.png"
+  },
+  "third": {
+    "name": "Happy Birthday",
+    "description": "Banjo occupy edison bulb keffiyeh. Mustache gentrify mixtape paleo copper mug vinyl mlkshk prism disrupt. Hot chicken umami edison bulb, 90's crucifix kinfolk vice shaman chambray. ",
+    "img": "img/cake.png"
+  }
+}

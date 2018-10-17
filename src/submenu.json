@@ -1,0 +1,53 @@
+{
+  "breakfast": {
+    "first": {
+      "name": "Breakfast One",
+      "price": "5€",
+      "img": "img/menu4.jpeg"
+    },
+    "second": {
+      "name": "Breakfast Two",
+      "price": "7€",
+      "img": "img/menu5.jpeg"
+    },
+    "third": {
+      "name": "Breakfast Three",
+      "price": "8€",
+      "img": "img/menu6.jpeg"
+    }
+  },
+  "lunch": {
+    "first": {
+      "name": "Lunch One",
+      "price": "10€",
+      "img": "img/menu.jpeg"
+    },
+    "second": {
+      "name": "Lunch Two",
+      "price": "15€",
+      "img": "img/menu2.jpg"
+    },
+    "third": {
+      "name": "Lunch Three",
+      "price": "18€",
+      "img": "img/menu3.jpeg"
+    }
+  },
+  "dinner": {
+    "first": {
+      "name": "Dinner One",
+      "price": "9€",
+      "img": "img/menu7.jpeg"
+    },
+    "second": {
+      "name": "Dinner Two",
+      "price": "12€",
+      "img": "img/menu8.jpeg"
+    },
+    "third": {
+      "name": "Dinner Three",
+      "price": "22€",
+      "img": "img/menu9.jpeg"
+    }
+  }
+}

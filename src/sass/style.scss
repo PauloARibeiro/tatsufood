@@ -681,6 +681,7 @@ nav {
 
     // HEADER
     .head {
+      margin-top: 15px;
       text-align: center;
       text-transform: capitalize;
       h5 {
@@ -715,8 +716,6 @@ nav {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      height: 100%;
-      width: 100%;
 
       // TYPE OF DISHES
       .type {
